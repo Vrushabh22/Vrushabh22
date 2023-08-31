@@ -12,7 +12,6 @@ I'm totally hooked on the magic of data. With a solid base in machine learning, 
     <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/tableau-%23E34F26.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
     <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 <br>
