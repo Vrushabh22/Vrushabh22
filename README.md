@@ -26,9 +26,7 @@ I'm totally hooked on the magic of data. With a solid base in machine learning, 
 
 
 <h3>Feel free to reach out to me 👇🏻</h3>
-<div>
-<h3>Feel free to reach out to me 👇🏻</h3>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Vrushabh22/vrushabhwadnere)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vrushabh-wadnere-7100991a0//)  
 </div>
-<hr>
-<br>
+
