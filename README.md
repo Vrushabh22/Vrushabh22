@@ -1,5 +1,4 @@
-### Hi there 👋, I am Vrushabh Wadnere 😃
-<br>
+### Hi there 👋, I am Vrushabh Wadnere 😃<br>
 <hr>
 <h3>About Me</h3>
 I'm totally hooked on the magic of data. With a solid base in machine learning, data analytics, and natural language processing, I'm all about making sense of information. 
