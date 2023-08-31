@@ -1,7 +1,8 @@
 ### Hi there 👋, I am Vrushabh Wadnere 😃
 
 I'm totally hooked on the magic of data. With a solid base in machine learning, data analytics, and natural language processing, I'm all about making sense of information. I'm not just learning – I'm gearing up to sprinkle some data-driven innovation wherever I go! 🚀 Currently pursuing my journey towards a Masters in Data Science at the Rochester Institute of Technology @RIT
-<br>
+
+
 <h3>Skills 💻📈</h3>
 <div style="cursor:default; pointer-events:none;">
     <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
@@ -15,9 +16,6 @@ I'm totally hooked on the magic of data. With a solid base in machine learning, 
     <img style="cursor:default; pointer-events:none;"src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-   
-    
-    
 </div>
 <br>
 <hr>
@@ -25,7 +23,4 @@ I'm totally hooked on the magic of data. With a solid base in machine learning, 
 
 - 🤔 I’m looking for Internships/Co-op opportunities in Data Science / Data Analytics / Data Engineering 
 
-<h3>Feel free to reach out to me 👇🏻</h3>
-<div>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Vrushabh22/vrushabhwadnere)  
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vrushabh-wadnere-7100991a0//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Vrushabh22/vrushabhwadnere)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vrushabh-wadnere-7100991a0//)  
