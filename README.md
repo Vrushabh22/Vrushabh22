@@ -1,6 +1,9 @@
 ### Hi there 👋, I am Vrushabh Wadnere 😃
 
-I'm totally hooked on the magic of data. With a solid base in machine learning, data analytics, and natural language processing, I'm all about making sense of information. I'm not just learning – I'm gearing up to sprinkle some data-driven innovation wherever I go! 🚀 Currently pursuing my journey towards a Masters in Data Science at the Rochester Institute of Technology @RIT
+<h3>About Me</h3>
+I'm totally hooked on the magic of data. With a solid base in machine learning, data analytics, and natural language processing, I'm all about making sense of information. 
+I'm not just learning – I'm gearing up to sprinkle some data-driven innovation wherever I go! 🚀 
+Currently pursuing my journey toward a Masters in Data Science at the Rochester Institute of Technology @RIT
 
 <br>
 <hr>
