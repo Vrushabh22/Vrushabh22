@@ -24,7 +24,7 @@ Currently pursuing my journey toward a Masters in Data Science at the Rochester 
 <hr>
 
 
-- 🤔 I’m looking for Internships/Co-op opportunities in Data Science / Data Analytics / Data Engineering
+- 🤔 I’m looking for full-time opportunities as a  Data Analytics / Data Scientist 
 
 
 <h3>Feel free to reach out to me 👇🏻</h3>
