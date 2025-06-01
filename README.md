@@ -9,7 +9,6 @@ Currently pursuing my journey toward a Masters in Data Science at the Rochester 
 <h3>Skills 💻📈</h3>
 <div style="cursor:default; pointer-events:none;">
     <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-    <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">    
     <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img style="cursor:default; pointer-events:none;" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
